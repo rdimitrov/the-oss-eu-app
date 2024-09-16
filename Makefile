@@ -1,5 +1,5 @@
 # Replace this with your image name, i.e. ghcr.io/<your-username>/demo-repo-go:latest
-IMAGE_NAME?=ghcr.io/stacklok/demo-repo-go:latest
+IMAGE_NAME?=ghcr.io/rdimitrov/the-oss-eu-app:latest
 
 # Replace this with your GitHub username and PAT.
 # This is used to authenticate with GitHub Container Registry (GHCR)
