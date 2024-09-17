@@ -1,4 +1,4 @@
-name: image-signed-ghat(latest)-malicious
+name: image-with-attestations(latest)-malicious
 on:
   workflow_dispatch:
 
