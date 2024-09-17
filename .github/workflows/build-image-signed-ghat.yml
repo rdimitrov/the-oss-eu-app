@@ -1,4 +1,4 @@
-name: image-signed-ghat(latest)
+name: image-with-attestation(latest)
 on:
   workflow_dispatch:
 
