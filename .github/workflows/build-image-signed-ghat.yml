@@ -1,4 +1,4 @@
-name: build-and-push-with-attestation
+name: build-and-push-attestation
 on:
   workflow_dispatch:
 
