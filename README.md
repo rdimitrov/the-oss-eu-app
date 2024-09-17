@@ -1,8 +1,8 @@
-# demo-repo-go 🦦
+# The OSS EU App 🦦
 
 ## Overview
 
-The `demo-repo-go` project is a repository template primarily intended for testing and
+The project is a repository primarily intended for testing and
 demonstration purposes with stacklok projects. It is a simple Go project that allows you to
 quickly get started with testing and demonstrating how you can use Minder and Trusty with
 your Go projects. It features continuous integration (CI) workflows that demonstrate how to 
