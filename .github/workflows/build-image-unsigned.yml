@@ -1,4 +1,4 @@
-name: image-unsigned(latest)
+name: build-and-push
 on:
   workflow_dispatch:
 
