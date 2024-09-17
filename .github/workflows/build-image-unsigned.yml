@@ -1,4 +1,4 @@
-name: image-unsigned(latest,daily)
+name: image-unsigned(latest)
 on:
   workflow_dispatch:
 
