@@ -1,4 +1,4 @@
-name: image-attestation(latest)-malicious
+name: build-and-push-attestation-malicious
 on:
   workflow_dispatch:
 
