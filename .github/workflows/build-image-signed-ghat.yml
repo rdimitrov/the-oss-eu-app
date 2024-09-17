@@ -1,4 +1,4 @@
-name: image-attestation(latest)
+name: build-and-push-with-attestation
 on:
   workflow_dispatch:
 
