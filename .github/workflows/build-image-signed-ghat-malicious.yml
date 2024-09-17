@@ -1,4 +1,4 @@
-name: image-with-attestations(latest)-malicious
+name: image-with-attestation(latest)-malicious
 on:
   workflow_dispatch:
 
