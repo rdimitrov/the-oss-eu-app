@@ -1,4 +1,4 @@
-name: image-with-attestation(latest)
+name: image-attestation(latest)
 on:
   workflow_dispatch:
 
