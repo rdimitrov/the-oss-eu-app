@@ -42,14 +42,3 @@ sign-keypair:
 .PHONY: sign-oidc
 sign-oidc:
 	@cosign sign $(IMAGE_NAME)
-
-.PHONY: build-binary
-build-binary:
-	@echo "Building a safe binary..."
-	go build -o demo-go-binary ./...
-
-.PHONY: build-malicious-binary
-build-malicious-binary:
-	@echo "Building a malicious binary..."
-	@echo "// Maliciously altered on $$(date)" >> main.go
-	go build -o demo-go-binary ./...
